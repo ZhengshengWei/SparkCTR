@@ -1,0 +1,9 @@
+target/
+.idea/
+spmt.iml
+out/
+data/metadata/
+data/data/
+data/test_small.csv
+data/train_small.csv
+
